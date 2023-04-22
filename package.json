@@ -1,0 +1,6 @@
+{
+  "name": "vl53l0x",
+  "version": "1.0.0",
+  "description": "Kaluma library for VL530X Time-of-Flight ranging sensor",
+  "main": "vl53l0x.js"
+}
