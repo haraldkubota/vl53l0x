@@ -11,7 +11,7 @@ Espruino driver: https://www.espruino.com/modules/VL53L0X.js
 
 ```
 npm install --save https://github.com/haraldkubota/vl53l0x
+kaluma bundle ./ex.js
+kaluma flash ./bundle.js
 ```
-
-See ex.js for an example.
 
